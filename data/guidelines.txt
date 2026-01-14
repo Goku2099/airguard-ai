@@ -1,0 +1,49 @@
+[AQI:0-50]
+Mask: No mask required
+Purifier: Not required
+Checkup: Annual routine check-up
+Actions:
+- Enjoy outdoor activities
+- Walk or cycle when possible
+- Support green initiatives
+Message: Air quality is excellent. Keep supporting sustainable living.
+
+[AQI:51-100]
+Mask: Cloth or surgical mask for sensitive people
+Purifier: Optional for children and elderly
+Checkup: Annual check-up
+Actions:
+- Reduce unnecessary vehicle usage
+- Avoid long outdoor exercise
+- Use energy efficiently
+Message: Air quality is acceptable. Small actions can improve it.
+
+[AQI:101-200]
+Mask: N95 or KN95 recommended outdoors
+Purifier: Required indoors (1 per room)
+Checkup: Every 6 months if regularly exposed
+Actions:
+- Avoid outdoor activity during peak hours
+- Use air purifier indoors
+- Prefer public transport
+Message: Air quality is unhealthy. Take precautions to reduce exposure.
+
+[AQI:201-300]
+Mask: N95 or KN95 mandatory outdoors
+Purifier: Required (1 per room / 2 per floor)
+Checkup: Every 3 months for high-risk groups
+Actions:
+- Avoid outdoor movement unless necessary
+- Close windows during high pollution
+- Avoid construction dust
+Message: Air quality is very poor. Strong precautions are needed.
+
+[AQI:301+]
+Mask: N95 or KN95 mandatory
+Purifier: Required in all living spaces
+Checkup: Immediate consultation if symptoms appear
+Actions:
+- Stay indoors as much as possible
+- Work from home if possible
+- Follow government advisories
+Message: Severe air pollution. Health protection is critical.

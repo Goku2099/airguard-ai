@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+langchain
+faiss-cpu
+geopy
+streamlit-lottie
