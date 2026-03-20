@@ -1,6 +1,6 @@
 # AirGuard AI(CREATED FOR 1M1BxIBM internship)
 
-An Offline Retrieval-Augmented Generation (RAG) based AI system for real-time Air Quality Index (AQI) analysis and environmental safety recommendations.
+An  Retrieval-Augmented Generation (RAG) based AI system for real-time Air Quality Index (AQI) analysis and environmental safety recommendations.
 
 ## Features
 - Real-time numeric AQI display
