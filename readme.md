@@ -8,7 +8,7 @@ An  Retrieval-Augmented Generation (RAG) based AI system for real-time Air Quali
 - Offline RAG-based safety recommendations
 - Mask, air purifier, and health guidance
 - Privacy-preserving design
-- Granite-ready architecture
+
 
 ## Technologies Used
 - Python
