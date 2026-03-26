@@ -19,9 +19,7 @@ st.caption("AI-powered air quality & environmental health assistant")
 
 st.markdown("---")
 
-# --------------------------------------------------
-# LOCATION SECTION
-# --------------------------------------------------
+
 from utils.location import get_location_from_ip, get_coordinates_from_city
 from utils.aqi import get_aqi_by_coordinates, classify_aqi
 
