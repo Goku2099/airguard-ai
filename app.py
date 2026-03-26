@@ -12,9 +12,7 @@ st.set_page_config(
     layout="centered"
 )
 
-# --------------------------------------------------
-# HEADER
-# --------------------------------------------------
+
 st.title("🌍 AirGuard AI")
 st.subheader("Breathe Better. Live Smarter.")
 st.caption("AI-powered air quality & environmental health assistant")
