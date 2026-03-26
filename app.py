@@ -5,9 +5,7 @@ from rag.retriever import retrieve_guideline
 from rag.generator import generate_response
 
 
-# --------------------------------------------------
-# PAGE CONFIG
-# --------------------------------------------------
+
 st.set_page_config(
     page_title="AirGuard AI",
     page_icon="🌍",
